@@ -6,6 +6,6 @@ Este repositorio recoge los trabajos prácticos de la asignatura Algoritmos de O
 
 2. Actividad Guiada 2 (AG2): Ejecución y ampliación utilizando la técnica de Programación Dinámica, así como el algoritmo de Descenso de Gradiente. La aplicación de la Programación Dinámica se lleva a cabo resolviendo el problema del viaje por el río.
 
-3. Actividad Guiada 3 (AG3): *Pendiente de subir.*
+3. Actividad Guiada 3 (AG3): Desarrollo de algoritmos que utilizan la técnica de búsqueda aleatoria, búsqueda local y enfriamiento simulado.
 
-4. Proyecto de programación práctico: *Pendiente de subir.*
+4. Proyecto de programación práctico: Subido en el directorio *Trabajo Practico*. Desarrollo de un problema práctico real.
